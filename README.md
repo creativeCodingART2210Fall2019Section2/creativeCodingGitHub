@@ -56,4 +56,78 @@ Develop innovative, artistically and culturally relevant projects through a proc
 
 Work efficiently through adopting collaboration, project management and workflow skills.
 
+---
 
+Resources
+
+• Textbook
+
+Lauren McCarthy, Casey Reas, and Ben Fry. “Getting Started with p5.js.”
+
+• Class Website(s) 
+https://docs.google.com/document/d/1dVOZsqOWoqFM8xHlvZ5EuB1 NEKZik5M_fVrLJnT4AZI/edit?usp=sharing
+
+• Online Resources Processing
+
+http://processing.org
+
+http://p5js.org JavaScript
+
+http://www.w3schools.com/js
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript Git
+
+http://rogerdudler.github.io/git-guide/
+
+https://www.atlassian.com/git/tutorials/what-is-version-control T erminal
+
+https://github.com/processing/p5.js/wiki/T erminal-and-the- Command-Line 
+
+http://computers.tutsplus.com/tutorials/navigating-the-terminal-a- gentle-introduction--mac-3855
+
+---
+
+Fourteen-Week Course Outline
+
+• Unit 1
+
+1/Hello: Learn about p5.js. & 2/Starting to Code: Create your first p5.js program.
+2/Draw: Define and draw simple shapes.
+
+3/Variables: Store, modify, and reuse data.
+
+4/Response: Control and influence programs with the mouse, keyboard, and touch.
+
+Project 1
+
+• Unit 2
+
+5/Translate, Rotate, Scale: Transform the coordinates. 
+
+6/Media: Load and display media, including images and fonts. 
+
+7/Motion: Move and choreograph shapes.
+
+8/Functions: Build new code modules.
+
+Project 2
+
+• Unit 3
+
+10/Objects: Create code modules that combine variables and functions. 
+
+11/Arrays: Simplify working with lists of variables.
+
+12/Data: Load and visualize data.
+
+13/Extend: Learn about sound and the DOM.
+
+Project 3
+
+---
+
+NOTES
+
+• This syllabus is a working document and is subject to change. It will be posted on the class website where any changes will be published if they do occur. Students will be notified in class of any modifications.
+
+• Backup your work. Please use a thumb drive or some other means of keeping your work safe especially if you are working in the school labs.
