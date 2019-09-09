@@ -28,9 +28,32 @@ After completing this course students will be able to...
 • Technical Competencies
 
 Implement basic functionality of JavaScript such as if statements, variables, and for loops.
+
 Use JavaScript and p5.js to draw onto an HTML canvas. Visualize data with JavaScript.
 Create custom functions.
+
 Create arrays of objects.
+
 Create an interactive interface.
-Pull API information from an external website. Construct simple layout with HTML and CSS
+
+Pull API information from an external website. 
+
+Construct simple layout with HTML and CSS
+
+Control the DOM using JavaScript and p5.js.
+
+Playback and analyze sound using p5.js.
+
+Use many of the technical foundations for web and interactivity through the following topics: network culture, the archive, and creative systems.
+
+• General Competencies
+
+Analyze and incorporate historical and contemporary ideas and strategies across various digital genres.
+
+Speak and write effectively through medium-specific writing forms and speaking exercises.
+
+Develop innovative, artistically and culturally relevant projects through a process of idea formulation, planning, researching, experimenting, producing, seeking feedback, and refining.
+
+Work efficiently through adopting collaboration, project management and workflow skills.
+
 
