@@ -7,10 +7,17 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 INSTRUCTIONAL METHODS
 
 • Exercises due at the end of each class
+
 • Homework assignments due at the beginning of each class
+
 • Lectures that open each new topic to provide a creative context within each unit
-• Lab Instruction and tutorials focused on developing technological craft • In-class work time and individual meetings
+
+• Lab Instruction and tutorials focused on developing technological craft
+
+• In-class work time and individual meetings
+
 • Readings and accompanying discussions
+
 • Critiques during and after each unit project
 
 ---
