@@ -87,9 +87,9 @@ https://www.atlassian.com/git/tutorials/what-is-version-control
 
 Terminal
 
-https://github.com/processing/p5.js/wiki/T erminal-and-the- Command-Line 
+https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line 
 
-http://computers.tutsplus.com/tutorials/navigating-the-terminal-a- gentle-introduction--mac-3855
+http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855
 
 ---
 
