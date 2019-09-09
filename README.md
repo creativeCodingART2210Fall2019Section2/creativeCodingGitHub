@@ -71,15 +71,21 @@ https://docs.google.com/document/d/1dVOZsqOWoqFM8xHlvZ5EuB1 NEKZik5M_fVrLJnT4AZI
 
 http://processing.org
 
-http://p5js.org JavaScript
+http://p5js.org 
+
+JavaScript
 
 http://www.w3schools.com/js
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript Git
+https://developer.mozilla.org/en-US/docs/Web/JavaScript 
+
+Git
 
 http://rogerdudler.github.io/git-guide/
 
-https://www.atlassian.com/git/tutorials/what-is-version-control T erminal
+https://www.atlassian.com/git/tutorials/what-is-version-control 
+
+Terminal
 
 https://github.com/processing/p5.js/wiki/T erminal-and-the- Command-Line 
 
