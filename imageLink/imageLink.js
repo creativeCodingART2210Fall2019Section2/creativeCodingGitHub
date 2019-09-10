@@ -18,7 +18,7 @@ function setup(){
 
 
 function draw(){
-  image(img, windowWidth/2, windowHeight/2);
+  image(img, windowWidth/2-345, windowHeight/2-194);
   
 
 }
