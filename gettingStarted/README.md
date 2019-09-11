@@ -2,7 +2,9 @@ Designer statement README Sample
 
 Image Sample
 <div align=center>
-![img](https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingSyllabus/raw/master/gettingStarted/img/p5jsImages.png)
+    
+![](https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingSyllabus/raw/master/gettingStarted/img/p5jsImages.png)
+
 <div align=left>
 <p>   
 
