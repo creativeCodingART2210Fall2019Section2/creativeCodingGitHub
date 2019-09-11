@@ -12,12 +12,19 @@ function preload()
 
 function setup(){
     createCanvas(windowWidth,windowHeight);
+    background(255);
 
 }
 
 function draw() 
 {
-  background(255);
+  strokeWeight(5);
+  fill(0);
+  textSize(57);
+  filter(BLUR, 10);
+  textStyle(BOLD);
+  textAlign(CENTER);
+  text('PROJECT DEMO',windowWidth/2,windowHeight/2-130);
   
   // add filters to images
   thresholdImage.filter("threshold", 0.5);
@@ -36,5 +43,6 @@ var ar=300/400,
 
 function windowResized(){
     resizeCanvas(windowWidth,windowHeight);
+    background(255);
 
 }
