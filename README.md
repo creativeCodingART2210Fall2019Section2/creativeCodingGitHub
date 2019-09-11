@@ -143,5 +143,5 @@ Designer statement README Sample
 
 <div align=center><img src=img/p5jsImages.png>
 <div align=left>
-    
+<p>   
     This is a sample
