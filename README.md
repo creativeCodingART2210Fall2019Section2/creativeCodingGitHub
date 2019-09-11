@@ -155,3 +155,5 @@ Text Format Sample
 This is a sample.
 
     This is a sample.
+    
+[Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
