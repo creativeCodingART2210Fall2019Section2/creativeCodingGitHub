@@ -21,7 +21,7 @@ function draw()
   strokeWeight(5);
   fill(0);
   textSize(57);
-  filter(BLUR, 10);
+  filter(BLUR, 1);
   textStyle(BOLD);
   textAlign(CENTER);
   text('PROJECT DEMO',windowWidth/2,windowHeight/2-130);
