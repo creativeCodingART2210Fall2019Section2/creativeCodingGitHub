@@ -14,7 +14,7 @@ Image Sample
 <div align=left>
 <p>   
 
-Text Format Sample
+#### Text Format Sample
 
 * This is a sample.
 
