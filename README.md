@@ -136,3 +136,6 @@ NOTES
 • This syllabus is a working document and is subject to change. It will be posted on the class website where any changes will be published if they do occur. Students will be notified in class of any modifications.
 
 • Backup your work. Please use a thumb drive or some other means of keeping your work safe especially if you are working in the school labs.
+
+---
+
