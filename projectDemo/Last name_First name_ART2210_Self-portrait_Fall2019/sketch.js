@@ -27,9 +27,9 @@ function draw()
 var ar=300/400,
     dw=windowWidth/3,
     dh=windowWidth/3*ar;
-  image(originalImage, 0, windowHeight/2-dh/3,dw,dh,0,0,400,300); 
-  image(thresholdImage, dw, windowHeight/2-dh/3,dw,dh,0,0,400,300);
-  image(grayImage, dw*2, windowHeight/2-dh/3,dw,dh,0,0,400,300);
+  image(originalImage, 0, windowHeight/2,dw,dh,0,0,400,300); 
+  image(thresholdImage, dw, windowHeight/2,dw,dh,0,0,400,300);
+  image(grayImage, dw*2, windowHeight/2,dw,dh,0,0,400,300);
   
 }
 
