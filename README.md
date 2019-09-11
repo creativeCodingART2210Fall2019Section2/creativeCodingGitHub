@@ -105,6 +105,7 @@ Fourteen-Week Course Outline
 • Unit 1
 
 1/Hello: Learn about p5.js. & 2/Starting to Code: Create your first p5.js program.
+
 2/Draw: Define and draw simple shapes.
 
 3/Variables: Store, modify, and reuse data.
