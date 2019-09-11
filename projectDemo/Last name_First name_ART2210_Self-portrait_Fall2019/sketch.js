@@ -24,17 +24,15 @@ function draw()
   grayImage.filter("gray"); 
   
    // display images
-  image(originalImage, 0, 0); 
-  image(thresholdImage, 200, 0);  
-  image(grayImage, 400, 0);
+var ar=300/400,
+    dw=windowWidth/3,
+    dh=windowWidth/3*ar;
+  image(originalImage, 0, windowHeight/2-windowWidth/3*ar/2,dw,dh,0,0,400,300); 
+  image(thresholdImage, dw, windowHeight/2-windowWidth/3*ar/2,dw,dh,0,0,400,300);
+  image(grayImage, dw*2, windowHeight/2-windowWidth/3*ar/2,dw,dh,0,0,400,300);
   
-  // display text labels
-  fill(255);
-  noStroke();
-  text('Original', 25, height - 25);
-  text('Threshhold', 225, height - 25);
-  text('Greyscale', 425, height - 25);
 }
+
 
 function windowResized(){
     resizeCanvas(windowWidth,windowHeight);
