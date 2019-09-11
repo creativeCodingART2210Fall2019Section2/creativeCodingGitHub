@@ -73,19 +73,17 @@ Lauren McCarthy, Casey Reas, and Ben Fry. “Getting Started with p5.js.”
 
 [p5js](http://p5js.org) 
 
-JavaScript
-
-[w3school](shttp://www.w3schools.com/js)
+[w3schools](http://www.w3schools.com/js)
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
-Git
+• Git
 
 [GitHub](http://rogerdudler.github.io/git-guide/)
 
 [git Tutorials](https://www.atlassian.com/git/tutorials/what-is-version-control) 
 
-Terminal
+• Terminal
 
 [github Terminal](https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line) 
 
