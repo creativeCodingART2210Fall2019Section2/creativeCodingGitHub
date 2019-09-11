@@ -1,6 +1,6 @@
 Image Link
 
-[demo imageLink](https://creativecodingart2210fall2019section2.github.io/creativeCodingSyllabus/imageLink/imageLink.html)
+[demo page imageLink](https://creativecodingart2210fall2019section2.github.io/creativeCodingSyllabus/imageLink/imageLink.html)
 
 <div align=center>
     
