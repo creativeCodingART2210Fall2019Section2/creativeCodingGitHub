@@ -8,4 +8,4 @@ Image Link
     
 imageLink coding
     
-    ![](path https://github.com/.../_raw_/master/imageLink/img/pikapikapika.jpg)
+    ![](path https://github.com/.../raw/master/imageLink/img/pikapikapika.jpg)
