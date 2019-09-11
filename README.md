@@ -142,5 +142,6 @@ NOTES
 Designer statement README Sample
 
 <div align=center><img src=img/p5jsImages.png>
-
+<div align=left>
+    
     This is a sample
