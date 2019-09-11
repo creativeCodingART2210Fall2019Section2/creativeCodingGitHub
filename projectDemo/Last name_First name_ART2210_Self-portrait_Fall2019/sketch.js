@@ -1,18 +1,39 @@
+var originalImage, thresholdImage, invertImage;
+ 
+function preload()
+{
+  // load original image
+  originalImage = loadImage("img/monalisa.jpg");
+  
+  // load in a few more copies (yes, I know that I could also use clone())
+  thresholdImage = loadImage("img/monalisa.jpg");
+  grayImage = loadImage("img/monalisa.jpg"); 
+}
+
 function setup(){
     createCanvas(windowWidth,windowHeight);
 
 }
 
-function draw(){
-    mouseChangingBackground()
-}
-
-function mouseChangingBackground(){   
-    let x1 = map(mouseX, 0, width, 0, 135,true);
-    let x2 = map(mouseY, 0, width, 0, 255,true);
-    let x3 = map(mouseX, 0, width, 255, 0,true);
-    background(x3,x2,x1);
-
+function draw() 
+{
+  background(255);
+  
+  // add filters to images
+  thresholdImage.filter("threshold", 0.5);
+  grayImage.filter("gray"); 
+  
+   // display images
+  image(originalImage, 0, 0); 
+  image(thresholdImage, 200, 0);  
+  image(grayImage, 400, 0);
+  
+  // display text labels
+  fill(255);
+  noStroke();
+  text('Original', 25, height - 25);
+  text('Threshhold', 225, height - 25);
+  text('Greyscale', 425, height - 25);
 }
 
 function windowResized(){
