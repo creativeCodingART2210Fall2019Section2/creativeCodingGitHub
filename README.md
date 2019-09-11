@@ -143,6 +143,8 @@ NOTES
 
 Designer statement README Sample
 
+[page link](https://creativecodingart2210fall2019section2.github.io/creativeCodingSyllabus/)
+
 Image Sample
 <div align=center><img src=img/p5jsImages.png>
 <div align=left>
@@ -150,22 +152,34 @@ Image Sample
 
 Text Format Sample
 
+
 * This is a sample.
+
 
 > This is a sample.
 
+
 **This is bold text**
+
 
 *This text is italicized*
 
+
 ~~This was mistaken text~~
+
 
 **This text is _extremely_ important**	
 
+
 ***All this text is important***
+
 
 This is a sample.
 
+
     This is a sample.
     
+
+
+
 [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
