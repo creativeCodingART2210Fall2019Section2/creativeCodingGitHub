@@ -18,6 +18,7 @@ function setup(){
 
 function draw() 
 {
+  background(255);
   strokeWeight(5);
   fill(0);
   textSize(57);
