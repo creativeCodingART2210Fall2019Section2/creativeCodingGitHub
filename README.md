@@ -1,7 +1,9 @@
 # 2019 Fall ART 2210 Creative Coding Syllabus
 
+<p>
 <div align=center><img src=img/p5jsImages.png>
 <div align=left>
+<p>
 
 ART 2210 Creative Coding is an applied course that focuses on creating internet based projects that impact media and culture. Students will learn current web design and development workflows with an emphasis on networked interaction and visualization. Current trends in online media will be examined with special attention paid to how projects can exist on multiple platforms such as mobile phones, tablets, and desktop computers. Through in-class exercises, projects, critique, hands-on workshops, readings and discussion we will explore the role of the digital artist/designer in a constantly evolving digital landscape. Students will develop an understanding of web technologies in order to implement creative systems.
 
