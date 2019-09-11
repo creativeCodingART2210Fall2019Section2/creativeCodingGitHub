@@ -68,27 +68,27 @@ Lauren McCarthy, Casey Reas, and Ben Fry. “Getting Started with p5.js.”
 
 • Online Resources Processing
 
-http://processing.org
+[Processing](http://processing.org)
 
-http://p5js.org 
+[p5js](http://p5js.org) 
 
 JavaScript
 
-http://www.w3schools.com/js
+[w3school](shttp://www.w3schools.com/js)
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript 
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 Git
 
-http://rogerdudler.github.io/git-guide/
+[GitHub](http://rogerdudler.github.io/git-guide/)
 
-https://www.atlassian.com/git/tutorials/what-is-version-control 
+[git Tutorials](https://www.atlassian.com/git/tutorials/what-is-version-control) 
 
 Terminal
 
-https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line 
+[github Terminal](https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line) 
 
-http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855
+[Terminal Tutorials](http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855)
 
 ---
 
