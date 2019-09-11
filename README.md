@@ -1,6 +1,7 @@
 # 2019 Fall ART 2210 Creative Coding Syllabus
 
 <p>
+<p>
 <div align=center><img src=img/p5jsImages.png>
 <div align=left>
 <p>
