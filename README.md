@@ -68,7 +68,7 @@ Lauren McCarthy, Casey Reas, and Ben Fry. “Getting Started with p5.js.”
 
 [google docs](https://docs.google.com/document/d/1dVOZsqOWoqFM8xHlvZ5EuB1NEKZik5M_fVrLJnT4AZI/edit?usp=sharing)
 
-[GitHub Classroom](https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingSyllabus)
+[GitHub Classroom](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub)
 
 • Online Resources Processing
 
