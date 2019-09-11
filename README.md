@@ -143,7 +143,7 @@ NOTES
 
 Designer statement README Sample
 
-[page link](https://creativecodingart2210fall2019section2.github.io/creativeCodingSyllabus/)
+[page link](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub/)
 
 Image Sample
 <div align=center><img src=img/p5jsImages.png>
