@@ -1,4 +1,4 @@
-Designer statement README Sample
+README Sample
 
 Image Sample
 <div align=center>
