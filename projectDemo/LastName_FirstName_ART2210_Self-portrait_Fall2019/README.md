@@ -9,7 +9,7 @@
 Image Sample
 <div align=center>
     
-![](https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingSyllabus/raw/master/gettingStarted/img/p5jsImages.png)
+![](https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingSyllabus/raw/master/projectDemo/LastName_FirstName_ART2210_Self-portrait_Fall2019/img/monalisa.jpg)
 
 <div align=left>
 <p>   
