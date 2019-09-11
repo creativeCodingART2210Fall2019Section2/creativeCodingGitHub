@@ -9,3 +9,8 @@ Image Link
 README imageLink formatting
     
     ![](path https://github.com/.../raw/master/imageLink/img/pikapikapika.jpg)
+    
+    Darft set left
+    Center: <div align=center>
+    Left: <div align=left>
+    
