@@ -1,6 +1,6 @@
 # Designer statement README Sample
 
-[Project Page Demo](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub/projectDemo/projectSubmittingDemo/index.html)
+[Project Page Demo](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub/projectDemo/Last name_First name_ART2210_Self-portrait_Fall2019/index.html)
 
 
 ## Designer statement Sample
