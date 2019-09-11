@@ -1,5 +1,8 @@
 # 2019 Fall ART 2210 Creative Coding Syllabus
 
+<div align=center><img src=img/p5jsImages.png>
+<div align=left>
+
 ART 2210 Creative Coding is an applied course that focuses on creating internet based projects that impact media and culture. Students will learn current web design and development workflows with an emphasis on networked interaction and visualization. Current trends in online media will be examined with special attention paid to how projects can exist on multiple platforms such as mobile phones, tablets, and desktop computers. Through in-class exercises, projects, critique, hands-on workshops, readings and discussion we will explore the role of the digital artist/designer in a constantly evolving digital landscape. Students will develop an understanding of web technologies in order to implement creative systems.
 
 ---
@@ -139,47 +142,3 @@ NOTES
 
 • Backup your work. Please use a thumb drive or some other means of keeping your work safe especially if you are working in the school labs.
 
----
-
-Designer statement README Sample
-
-[page link](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub/)
-
-Image Sample
-<div align=center><img src=img/p5jsImages.png>
-<div align=left>
-<p>   
-
-Text Format Sample
-
-
-* This is a sample.
-
-
-> This is a sample.
-
-
-**This is bold text**
-
-
-*This text is italicized*
-
-
-~~This was mistaken text~~
-
-
-**This text is _extremely_ important**	
-
-
-***All this text is important***
-
-
-This is a sample.
-
-
-    This is a sample.
-    
-
-
-
-[Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
