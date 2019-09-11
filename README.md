@@ -145,5 +145,9 @@ Image Sample
 <div align=center><img src=img/p5jsImages.png>
 <div align=left>
 <p>   
-    
+
+Text Format Sample
+
+* This is a sample.
+
     This is a sample
