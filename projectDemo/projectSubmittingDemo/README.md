@@ -3,6 +3,9 @@
 [Project Page Demo](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub/projectDemo/projectSubmittingDemo/index.html)
 
 ---
+Designer statement README Sample
+
+---
 
 Image Sample
 <div align=center>
