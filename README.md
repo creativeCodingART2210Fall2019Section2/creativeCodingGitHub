@@ -65,6 +65,7 @@ Resources
 Lauren McCarthy, Casey Reas, and Ben Fry. “Getting Started with p5.js.”
 
 • Class Website
+
 [google docs](https://docs.google.com/document/d/1dVOZsqOWoqFM8xHlvZ5EuB1NEKZik5M_fVrLJnT4AZI/edit?usp=sharing)
 
 • Online Resources Processing
