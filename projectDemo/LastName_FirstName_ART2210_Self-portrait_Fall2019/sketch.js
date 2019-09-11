@@ -25,7 +25,7 @@ function draw()
   
   textStyle(BOLD);
   textAlign(CENTER);
-  text('PROJECT DEMO',windowWidth/2,windowHeight/2-130);
+  text('PROJECT PAGE DEMO',windowWidth/2,windowHeight/2-130);
   
   // add filters to images
   thresholdImage.filter("threshold", 0.5);
