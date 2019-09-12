@@ -8,7 +8,7 @@
 
 Image Sample
 
-div align=center><img width="400" height="419" src=https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingGitHub/raw/master/projectDemo/LastName_FirstName_ART2210_Web-game_Fall2019/hightestScore.png>
+<div align=center><img width="400" height="419" src=https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingGitHub/raw/master/projectDemo/LastName_FirstName_ART2210_Web-game_Fall2019/hightestScore.png>
 
 <div align=left>
 <p>   
