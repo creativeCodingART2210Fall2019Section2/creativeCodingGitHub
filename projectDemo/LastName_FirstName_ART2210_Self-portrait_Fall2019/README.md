@@ -14,6 +14,8 @@ Image Sample
 <div align=left>
 <p>   
 
+300 words!
+
 #### Text Format Sample
 
 * This is a sample.
