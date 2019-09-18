@@ -5,4 +5,4 @@
 
 ## Blue Moving Rect
 
-ps.min.js based
+p5.min.js based
