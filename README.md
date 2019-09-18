@@ -118,7 +118,9 @@ Project 1
 
 5/Translate, Rotate, Scale: Transform the coordinates. 
 
-6/Media: Load and display media, including images and fonts. 
+6-1/Time
+
+6-2/Media: Load and display media, including images and fonts. 
 
 7/Motion: Move and choreograph shapes.
 
