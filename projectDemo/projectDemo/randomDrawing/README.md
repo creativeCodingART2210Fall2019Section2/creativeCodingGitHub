@@ -7,9 +7,7 @@
 
 
 Drawing Sample
-<div align=center>
-    
-![](https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingGitHub/projectDemo/projectDemo/randomDrawing/randomDrawing.png)
+<img align=center src=randomDrawing.png width=96>
 
 <div align=left>
 <p>   
