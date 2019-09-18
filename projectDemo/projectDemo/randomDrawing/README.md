@@ -20,4 +20,6 @@ When mouse press and drag, draw light gray *dot line*
 
 Get a stable image every 15 seconds
 
+Time cutdown bar shows on left up corner
+
 Mouse click to start a new drawing
