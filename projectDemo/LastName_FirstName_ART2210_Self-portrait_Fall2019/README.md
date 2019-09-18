@@ -14,7 +14,7 @@ Inspiration Image Sample
 <div align=left>
 <p>   
 
-300 words!
+Designer statement 300 words!
 
 #### Text Format Sample
 
