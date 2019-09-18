@@ -8,7 +8,7 @@
 
 Drawing Sample
 
-<img align=center src=randomDrawing.png width=300>
+<div align=center><img src=randomDrawing.png width=1300>
 
 <div align=left>
 <p>   
