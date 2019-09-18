@@ -14,3 +14,10 @@ Drawing Sample
 <p>   
 
 
+**Interaction**
+
+When mouse press and drag, draw light gray *dot line*
+
+Get a stable image every 15 seconds
+
+Mouse click to start a new drawing
