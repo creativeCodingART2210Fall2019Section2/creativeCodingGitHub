@@ -1,6 +1,6 @@
 # Random Drawing
 
-[Project Page Demo](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub/projectDemo/projectDemo/randomDrawing/randomDrawing.html)
+[Random Drawing Link](https://creativecodingart2210fall2019section2.github.io/creativeCodingGitHub/projectDemo/projectDemo/randomDrawing/randomDrawing.html)
 
 
 ## 15 seconds random drawing flower
