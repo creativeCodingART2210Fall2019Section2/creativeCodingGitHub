@@ -28,7 +28,7 @@ function draw(){
     noFill();
 
   if (mouseIsPressed == true) {
-    stroke(0, 35); 
+    stroke(0, 45); 
     line(mouseX, mouseY, pmouseX, pmouseY); 
     ellipse(mouseX, mouseY, 2, 2); 
   } else{
