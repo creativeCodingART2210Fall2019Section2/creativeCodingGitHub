@@ -118,11 +118,13 @@ Project 1
 
 5/Translate, Rotate, Scale: Transform the coordinates. 
 
-6-1/Time
+6-1/Time.
 
 6-2/Media: Load and display media, including images and fonts. 
 
-7/Motion: Move and choreograph shapes.
+7-1/Motion: Move and choreograph shapes.
+
+7-2/Random Variables.
 
 8/Functions: Build new code modules.
 
