@@ -10,7 +10,7 @@ let score = 0;
 let index0, index1, index2;
 function setup() {
     
-  createCanvas(600, 600);
+  createCanvas(windowWidth, windowHeight);
 
   background('#d3d3d3');
   x = random(width);
