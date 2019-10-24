@@ -8,6 +8,7 @@ var x,y;
 var d;
 let score = 0;
 let index0, index1, index2;
+
 function setup() {
     
   createCanvas(windowWidth, windowHeight);
@@ -25,21 +26,19 @@ function draw() {
 
     background('#d3d3d3');
     fill(0);
-    
+    textSize(12);
     text("Score: " + score, 10, 20);
-     
-    noStroke();
-    fill(index0);
     
-    text(texts[index2],width/2,20); 
-
-    fill(index1);
-       
+    fill(index1);   
+    noStroke();
+    ellipse(x, y, radius, radius);
     noStroke();
 
-    ellipse(x, y, radius, radius);
-   
-
+    fill(index0); 
+    textSize(25);
+    //text(texts[index2],width/2,20); 
+    text(texts[index2],mouseX,mouseY); 
+    
     }
 
 
@@ -53,9 +52,9 @@ function  mouseClicked(){
            index1=='#FFFF4D' && index2==1||
            index1=='#0000FF' && index2 ==2){
            score++;
-    }  else{
-        score--;
-    }  
+        }  else{
+            score--;
+        }  
         
     }
        
