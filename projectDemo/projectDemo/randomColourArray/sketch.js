@@ -61,10 +61,10 @@ function draw() {
         textAlign(CENTER);
         text("RESTART",windowWidth/2, windowHeight/2+60)
 
-        let dRw = dist(mouseX, windowHeight/2+30, windowWidth/2-70, windowHeight/2+30);
-        let dRh = dist(windowWidth/2-70, mouseY, windowWidth/2-70, windowHeight/2+30);
+        let dRw = dist(mouseX, windowHeight/2+30, windowWidth/2, windowHeight/2+30);
+        let dRh = dist(windowWidth/2-70, mouseY, windowWidth/2-70, windowHeight/2+50);
 
-        if(dRw<140 && dRh<40){
+        if(dRw<70 && dRh<20){
             fill('#a9a9a9');
             rect(windowWidth/2-70, windowHeight/2+30,140,40);
             fill(255);
@@ -99,10 +99,10 @@ function  mouseClicked(){
     index0=c[int(random(0, 3))];
 
     if(frameCount>450){
-        let dRw = dist(mouseX, windowHeight/2+30, windowWidth/2-70, windowHeight/2+30);
-        let dRh = dist(windowWidth/2-70, mouseY, windowWidth/2-70, windowHeight/2+30);
+        let dRw = dist(mouseX, windowHeight/2+30, windowWidth/2, windowHeight/2+30);
+        let dRh = dist(windowWidth/2-70, mouseY, windowWidth/2-70, windowHeight/2+50);
 
-        if(dRw<140 && dRh<40){
+        if(dRw<70 && dRh<20){
             frameCount=0;
             background('#d3d3d3');
             x = random(width);
