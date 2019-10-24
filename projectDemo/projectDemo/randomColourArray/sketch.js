@@ -110,6 +110,7 @@ function  mouseClicked(){
             index0=c[int(random(0, 3))];
             index1=c[int(random(0, 3))];
             index2=0;
+            score = 0;
         }
     
 
