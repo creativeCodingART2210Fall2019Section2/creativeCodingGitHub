@@ -15,6 +15,7 @@ function setup() {
   background('#d3d3d3');
   x = random(width);
   y = random(70,height);
+  index0=c[int(random(0, 3))];
   index1=c[int(random(0, 3))];
   index2=0;
 
@@ -28,7 +29,7 @@ function draw() {
     text("Score: " + score, 10, 20);
      
     noStroke();
-    fill(0);
+    fill(index0);
     
     text(texts[index2],width/2,20); 
 
@@ -60,6 +61,7 @@ function  mouseClicked(){
        
     index2=int(random(0,3));
     index1=c[int(random(0, 3))];
+    index0=c[int(random(0, 3))];
        
 }   
 
