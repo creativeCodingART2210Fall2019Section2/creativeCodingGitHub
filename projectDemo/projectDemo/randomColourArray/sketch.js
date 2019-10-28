@@ -25,7 +25,7 @@ function setup() {
 function draw() {
 
     frameRate(30);
-    let cutDown=map(frameCount,0,450,16,1);
+    let cutDown=map(frameCount,0,450,16,0);
 
     if(frameCount <= 450){
 
@@ -99,6 +99,11 @@ function  mouseClicked(){
     index0=c[int(random(0, 3))];
 
     if(frameCount>450){
+        //x = -100;
+        //y = -100;
+
+
+
         let dRw = dist(mouseX, windowHeight/2+30, windowWidth/2, windowHeight/2+30);
         let dRh = dist(windowWidth/2-70, mouseY, windowWidth/2-70, windowHeight/2+50);
 
