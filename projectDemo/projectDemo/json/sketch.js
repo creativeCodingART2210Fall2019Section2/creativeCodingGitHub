@@ -18,5 +18,5 @@ function setup(){
 function draw(){
   background(0);
   fill(flowers.col);
-  Text(flowers.name,10,50);
+  text(flowers.name,10,50);
 }
