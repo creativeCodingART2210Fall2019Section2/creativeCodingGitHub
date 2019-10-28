@@ -6,7 +6,7 @@ function preload(){
 }
 
 function setup(){
-  createCavens(400,400);
+  createCanvas(400,400);
   
 }
 
